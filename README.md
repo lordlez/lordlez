@@ -1,13 +1,13 @@
 ### Hola! Soy Lorenzo David Lezcano 👋
-Vivo en Buenos Aires, Argentina y tengo 26 años. Me gusta la tecnología y creo que nunca es tarde para aprender y lograr lo que uno se propone si realmente le apasiona. 📚🔥
+Vivo en Buenos Aires, Argentina y tengo 26 años. Me gusta la tecnología y la programación. 📚🔥
 
 
-### Podés encontrarme en mis redes sociales:
+### Mis redes sociales:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lordlez_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lordlez/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-david-lezcano/)
 
-### Tecnologías que actualmente utilizo✨:
+### Tecnologías que utilizo✨:
 <div style= "display: inline_block">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
