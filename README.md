@@ -1,5 +1,5 @@
-### Hola! Soy Lorenzo David Lezcano 👋
-Vivo en Buenos Aires, Argentina y tengo 26 años. Me gusta la tecnología y la programación. 📚🔥
+### Hola! Soy Lorenzo Lezcano 👋
+📚🔥
 
 
 ### Mis redes sociales:
