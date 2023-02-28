@@ -1,5 +1,5 @@
 ### Hi! I'm Lorenzo Lezcano 👋
-I am a computer engineering student at the national university of slaughterhouse (unlam). I love learning new things and implementing them in projects, I am currently developing skills in both frontend and backend.
+I am a computer engineering student at the National University of La Matanza (UNLaM). I love learning new things and implementing them in projects, I am currently developing skills in both frontend and backend.
 
 📚🔥
 
