@@ -1,6 +1,8 @@
 ### Hi! I'm Lorenzo Lezcano 👋
-I am a computer engineering student at the National University of La Matanza (UNLaM). I love learning new things and implementing them in projects, I am currently developing skills in both frontend and backend.
-
+Soy estudiante de Ingeniería en Informática de la Universidad Nacional de La Matanza (UNLaM), me encanta la tecnología y aprender todos los días algo nuevo.
+Actualmente tengo conocimientos en HTML, CSS, JavaScript, SQL, Python, C y nociones de .NET y JAVA. 
+¿Mi objetivo? Poder trabajar en la industria que tanto admiro como programador o similar. 
+Mente abierta y nunca parar de aprender son dos cosas que mantienen mi motivación a seguir desarrollandome día a día.
 📚🔥
 
 
