@@ -5,7 +5,7 @@
 <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> About me</h2>
 <br/>
 <br/>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px"></picture>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px">
 
 - :school: I'm currently a `Junior Frontend Developer` working for [FlyDevs](https://www.flydevs.com/).
 - :student: I'm currently studying `Software Engineering` at the University of La Matanza (UNLaM).
