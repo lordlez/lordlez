@@ -1,56 +1,66 @@
- # ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=909090&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+I'm+Lorenzo+Lezcano+👋)
+<h1 align="center"><b>Hi, I'm Lorenzo Lezcano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!---------------------------------------------------------------------->
+<br/>
+<br/>
+<h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me</h2>
+<br/>
+<br/>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px"></picture>
 
- <!---------------------------------------------------------------------->
+- :school: I'm currently a `Junior Frontend Developer` working for [FlyDevs](https://www.flydevs.com/).
+- :student: I'm currently studying `Software Engineering` at the University of La Matanza (UNLaM).
+- :computer: I love using Software as a solution for every `Problem`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+<br/>
+<br/>
+<!---------------------------------------------------------------------->
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b></h2>
+<br/>
+<br/>
 
- <h1 align="center">Github Metrics </h1><p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordlez&theme=github_dark" />
-</p>
+<div>
+        <img src="https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5" width="100px" title="HTML">
+        <img src="https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6" width="85px" title="CSS">
+        <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript" width="140px" title="JavaScript">
+        <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript" width="144px" title="TypeScript">
+        <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js" width="113px" title="Node.js">
+        <img src="https://img.shields.io/badge/-React-0D1117?style=flat&logo=react" width="95px" title="React">
+</div>
 
 
- <!---------------------------------------------------------------------->
+<br/>
+<br/>
+<!---------------------------------------------------------------------->
+<br/>
+<br/>
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me </h2>
+<br/>
+<br/>
 
+ <a href="https://x.com/lordlez_">
+  <img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/lorenzolezcano/">
+  <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/lordlez/">
+  <img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com">
+  <img align="left" alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br/>
+<br/>
+<!---------------------------------------------------------------------->
+<br/>
+<br/>
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><b> Good Bye!</b></h2>
+<br/>
+<br/>
 
- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lordlez&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Lordlez Dev github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlez&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div> 
-
-
- <!---------------------------------------------------------------------->
- 
-<h1 align="center">Social Media</h1><p align="center">
-
- <p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/lorenzolezcano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="https://www.instagram.com/lordlez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
-</p>
-
- <!---------------------------------------------------------------------->
-
-<h1 align="center">My skills</h1><p align="center">
-
- ```mermaid
-graph TD;
-    Front-End-->HTML5;
-    Front-End-->CSS3;
-    Front-End-->JavaScript;
-    Front-End-->React;
-    Front-End-->JSON;
-    Front-End-->TypeScript;
-
-```
- <!---------------------------------------------------------------------->
-
-<p align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript">     
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">    
-<img src="" width="48" title="">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">    
-<p/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+ <div><img src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+greetUser(lordlez);..+if(+conversation.hasEnded());....++s+%3D+techie.waving_goodbye();....+s.say();....+s.thankYou();....+s.seeYouNextTime();" /></div>
+ <div><img align="right" src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="20%" /></div>
+</div>
 
