@@ -7,7 +7,7 @@
 <br/>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px">
 
-- :school: I'm currently a `Junior Frontend Developer` working for [FlyDevs](https://www.flydevs.com/).
+- :school: I'm currently a `Frontend Developer` working for [FlyDevs](https://www.flydevs.com/).
 - :student: I'm currently studying `Software Engineering` at the University of La Matanza (UNLaM).
 - :computer: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
