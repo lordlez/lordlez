@@ -9,7 +9,6 @@
 
 - :school: I'm currently a `Fullstack Developer`.
 - :student: I'm currently studying `Software Engineering` at the University of La Matanza (UNLaM).
-- :computer: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 <br/>
 <br/>
