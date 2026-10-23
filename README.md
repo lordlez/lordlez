@@ -39,9 +39,6 @@
 <a href="https://www.linkedin.com/in/lorenzolezcano/">
   <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/lordlez/">
-  <img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <br/>
 <br/>
 <!---------------------------------------------------------------------->
